@@ -10,7 +10,6 @@ This app includes searching and show details based on Seat Geek API
 I have used get package for state management and followed structure based on that like below
 
 Lib/core – this package includes core functionality related classed and packages like
-
 Binding, network and route etc.
 
 Lib/core/binding – this package includes binding (Dependency) related classes of app.
