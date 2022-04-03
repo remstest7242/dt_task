@@ -31,6 +31,7 @@ Lib/core – this package includes screen related classed and packages.
 
 
 ## App Library -
+
 cached_network_image - used for image catching
 
 dio - used for networking
@@ -47,6 +48,7 @@ intl - used for formatting date
 
 
 ## App handles below scenario -
+
 No internet handling page wise
 
 No data handling page wise
@@ -60,6 +62,7 @@ Image catching
 Image loader and placeholder
 
 ## Notes
+
 I have tried concerned about logic, coding standard and make it easy to understand
 
 I don't have ios devices as of now so I was unable to perform test and config for ios devices
