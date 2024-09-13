@@ -59,9 +59,3 @@ Lazy loading with search
 Image catching
 
 Image loader and placeholder
-
-## Notes
-
-I have tried concerned about logic, coding standard and make it easy to understand
-
-I don't have ios devices as of now so I was unable to perform test and config for ios devices
